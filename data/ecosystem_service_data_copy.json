@@ -1,0 +1,474 @@
+[
+{
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Thatch Grass",
+    "value_2018": 0,
+    "value_2022": 0,
+    "percentage_2018": 0,
+    "percentage_2022": 0,
+    "color": "#c8c771"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Papyrus",
+    "value_2018": 0,
+    "value_2022": 1448867.25,
+    "percentage_2018": 0,
+    "percentage_2022": 0.199,
+    "color": "#bfbc1f"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Firewood",
+    "value_2018": 0,
+    "value_2022": 1209787.57,
+    "percentage_2018": 0,
+    "percentage_2022": 0.166,
+    "color": "#fbba9d"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Charcoal",
+    "value_2018": 0,
+    "value_2022": 1500,
+    "percentage_2018": 0,
+    "percentage_2022": 0.000205785,
+    "color": "#6e6e6e"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 1079956.79,
+    "value_2022": 2377667,
+    "percentage_2018": 2.268,
+    "percentage_2022": 0.326,
+    "color": "#0000ff"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Bushmeat",
+    "value_2018": 0,
+    "value_2022": 241594.3,
+    "percentage_2018": 0,
+    "percentage_2022": 0.033,
+    "color": "#1eac5b"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 0,
+    "value_2022": 179967589.1,
+    "percentage_2018": 0,
+    "percentage_2022": 24.689,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 46440071.92,
+    "value_2022": 41322309.06,
+    "percentage_2018": 97.540,
+    "percentage_2022": 5.668,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 90997.76,
+    "value_2022": 121998.04,
+    "percentage_2018": 0.191,
+    "percentage_2022": 0.017,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Flood Control",
+    "value_2018": 0,
+    "value_2022": 2239501.19,
+    "percentage_2018": 0,
+    "percentage_2022": 0.307,
+    "color": "#73cade"
+  },
+
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Recreation & Education",
+    "value_2018": 0,
+    "value_2022": 24000,
+    "percentage_2018": 0,
+    "percentage_2022": 0.003,
+    "color": "#de9873"
+  },
+  {
+    "wetland_name": "ssudan_eco",
+    "ecosystem_service": "Heritage",
+    "value_2018": 0,
+    "value_2022": 499962725.2,
+    "percentage_2018": 0,
+    "percentage_2022": 68.589,
+    "color": "#a47158"
+  },
+
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Timber",
+    "value_2018": 1372800,
+    "value_2022": 1235520,
+    "percentage_2018": 0.039,
+    "percentage_2022": 0.037,
+    "color": "#e0b39e"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 265000000,
+    "value_2022": 191724000,
+    "percentage_2018": 7.568,
+    "percentage_2022": 5.769,
+    "color": "#0000ff"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Honey",
+    "value_2018": 420,
+    "value_2022": 420,
+    "percentage_2018": 0.0000119961,
+    "percentage_2022": 0.0000126387,
+    "color": "#d7592b"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Charcoal",
+    "value_2018": 2390,
+    "value_2022": 1375,
+    "percentage_2018": 0.0000682637,
+    "percentage_2022": 0.0000413765,
+    "color": "#6e6e6e"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Firewood",
+    "value_2018": 666,
+    "value_2022": 165,
+    "percentage_2018": 0.0000190224,
+    "percentage_2022": 0.00000496519,
+    "color": "#fbba9d"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 3234168000,
+    "value_2022": 3129840000,
+    "percentage_2018": 92.375,
+    "percentage_2022": 94.183,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 269235,
+    "value_2022": 288281,
+    "percentage_2018": 0.009,
+    "percentage_2022": 0.009,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 314228,
+    "value_2022": 33951,
+    "percentage_2018": 0.009,
+    "percentage_2022": 0.001,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "tanzania_eco",
+    "ecosystem_service": "Recreation & Education",
+    "value_2018": 0,
+    "value_2022": 14766,
+    "percentage_2018": 0,
+    "percentage_2022": 0.000444339,
+    "color": "#de9873"
+  },
+{
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Thatch Grass",
+    "value_2018": 0,
+    "value_2022": 0,
+    "percentage_2018": 0,
+    "percentage_2022": 0,
+    "color": "#c8c771"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Papyrus",
+    "value_2018": 38930549.6,
+    "value_2022": 45733895.25,
+    "percentage_2018": 96.927,
+    "percentage_2022": 95.575,
+    "color": "#bfbc1f"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Firewood",
+    "value_2018": 36500.28,
+    "value_2022": 15587.35,
+    "percentage_2018": 0.091,
+    "percentage_2022": 0.033,
+    "color": "#fbba9d"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Charcoal",
+    "value_2018": 0,
+    "value_2022": 0,
+    "percentage_2018": 0,
+    "percentage_2022": 0,
+    "color": "#6e6e6e"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Timber",
+    "value_2018": 37150.34,
+    "value_2022": 219738.28,
+    "percentage_2018": 0.092,
+    "percentage_2022": 0.459,
+    "color": "#e0b39e"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 455172.19,
+    "value_2022": 466899.88,
+    "percentage_2018": 1.133,
+    "percentage_2022": 0.976,
+    "color": "#0000ff"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 0,
+    "value_2022": 23890.91,
+    "percentage_2018": 0,
+    "percentage_2022": 0.050,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 351908,
+    "value_2022": 262157,
+    "percentage_2018": 0.876,
+    "percentage_2022": 0.547,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 353448.49,
+    "value_2022": 372727.48,
+    "percentage_2018": 0.900,
+    "percentage_2022": 0.779,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Flood Control",
+    "value_2018": 0,
+    "value_2022": 106656.45,
+    "percentage_2018": 0,
+    "percentage_2022": 0.223,
+    "color": "#73cade"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Recreation & Education",
+    "value_2018": 0,
+    "value_2022": 649857.7,
+    "percentage_2018": 0,
+    "percentage_2022": 1.358,
+    "color": "#de9873"
+  },
+  {
+    "wetland_name": "ethiopia_eco",
+    "ecosystem_service": "Heritage",
+    "value_2018": 0,
+    "value_2022": 0,
+    "percentage_2018": 0,
+    "percentage_2022": 0,
+    "color": "#a47158"
+  },
+  {
+    "wetland_name": "comoros_boundouni_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 0,
+    "value_2022": 54000,
+    "percentage_2018": 0,
+    "percentage_2022": 0.680,
+     "color": "#0000ff"
+  },
+  {
+    "wetland_name": "comoros_boundouni_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 0,
+    "value_2022": 8600,
+    "percentage_2018": 0,
+    "percentage_2022": 0.108,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "comoros_boundouni_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 0,
+    "value_2022": 6934937,
+    "percentage_2018": 0,
+    "percentage_2022": 87.326,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "comoros_boundouni_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 0,
+    "value_2022": 461000,
+    "percentage_2018": 0,
+    "percentage_2022": 5.805,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "comoros_boundouni_eco",
+    "ecosystem_service": "Recreation & Education",
+    "value_2018": 0,
+    "value_2022": 482880,
+    "percentage_2018": 0,
+    "percentage_2022": 6.081,
+    "color": "#de9873"
+  },
+  {
+    "wetland_name": "rwanda_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 350400,
+    "value_2022": 356376.09,
+    "percentage_2018": 0.228,
+    "percentage_2022": 0.203,
+    "color": "#0000ff"
+  },
+  {
+    "wetland_name": "rwanda_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 153557050.8,
+    "value_2022": 141525926.3,
+    "percentage_2018": 99.772,
+    "percentage_2022": 80.552,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "rwanda_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 0,
+    "value_2022": 32700000,
+    "percentage_2018": 0,
+    "percentage_2022": 18.612,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "rwanda_eco",
+    "ecosystem_service": "Flood Control",
+    "value_2018": 0,
+    "value_2022": 1113035,
+    "percentage_2018": 0,
+    "percentage_2022": 0.634,
+    "color": "#73cade"
+  },
+
+  {
+    "wetland_name": "uganda_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 0,
+    "value_2022": 2002,
+    "percentage_2018": 0,
+    "percentage_2022": 0.692,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "uganda_eco",
+    "ecosystem_service": "Waste Water Purification",
+    "value_2018": 0,
+    "value_2022": 287496,
+    "percentage_2018": 0,
+    "percentage_2022": 99.308,
+    "color": "#93dfb8"
+  },
+
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Thatch Grass",
+    "value_2018": 84630,
+    "value_2022": 0,
+    "percentage_2018": 1.399,
+    "percentage_2022": 0,
+    "color": "#c8c771"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Papyrus",
+    "value_2018": 798370,
+    "value_2022": 0,
+    "percentage_2018": 13.196,
+    "percentage_2022": 0,
+    "color": "#bfbc1f"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Firewood",
+    "value_2018": 56894,
+    "value_2022": 0,
+    "percentage_2018": 0.940,
+    "percentage_2022": 0,
+    "color": "#fbba9d"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Fish",
+    "value_2018": 3101965,
+    "value_2022": 7075350,
+    "percentage_2018": 51.271,
+    "percentage_2022": 99.930,
+    "color": "#0000ff"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Water Storage",
+    "value_2018": 1883434,
+    "value_2022": 0,
+    "percentage_2018": 31.131,
+    "percentage_2022": 0,
+    "color": "#84a5d7"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Carbon Storage",
+    "value_2018": 6192,
+    "value_2022": 4991,
+    "percentage_2018": 0.102,
+    "percentage_2022": 0.0705,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Biodiversity & Habitat Conservation",
+    "value_2018": 101654,
+    "value_2022": 0,
+    "percentage_2018": 1.680,
+    "percentage_2022": 0,
+    "color": "#729b6f"
+  },
+  {
+    "wetland_name": "kenya_eco",
+    "ecosystem_service": "Recreation & Education",
+    "value_2018": 16983,
+    "value_2022": 0,
+    "percentage_2018": 0.281,
+    "percentage_2022": 0,
+    "color": "#de9873"
+  }
+]
